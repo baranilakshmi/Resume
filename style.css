@@ -236,7 +236,7 @@ h1,h2,h3,h4,h5,h6,p,div {
 .on {
     width: 80%;
     height: 50px;
-    background: #807b7b;
+    /* background: #706d6d; */
     position: absolute;
     top: 50%;
     left: 50%;
@@ -250,7 +250,7 @@ h1,h2,h3,h4,h5,h6,p,div {
 }
 
 .on h4 {
-    color: #fff;
+    color: rgb(218, 205, 205);
     font-weight: bold
 }
 
