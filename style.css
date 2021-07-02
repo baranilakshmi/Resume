@@ -2,8 +2,8 @@
 margin: 0;
 padding: 0;
 box-sizing: border-box;
- overflow-x: hidden; 
-
+overflow-x: hidden; 
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 section {
@@ -250,8 +250,8 @@ h1,h2,h3,h4,h5,h6,p,div {
 }
 
 .on h4 {
-    color: rgb(218, 205, 205);
-    font-weight: bold
+    color: rgb(170, 161, 161);
+    font-size: x-large;
 }
 
 @media screen and (min-width: 600px) {
